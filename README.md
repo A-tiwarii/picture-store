@@ -78,9 +78,12 @@ $ npm run test:cov
 
 
 
-## Screenshots
+## Test Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![test 1](https://github.com/A-tiwarii/picture-store/blob/main/Screenshot%20(575).png)
+![test 2](https://github.com/A-tiwarii/picture-store/blob/main/Screenshot%20(576).png)
+![test 3](https://github.com/A-tiwarii/picture-store/blob/main/Screenshot%20(577).png)
+![test 2](https://github.com/A-tiwarii/picture-store/blob/main/Screenshot%20(578).png)
 
 
 ## Tech Stack
@@ -92,7 +95,7 @@ $ npm run test:cov
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://drive.google.com/drive/folders/1zd3STX0czSshaok06p6kYYRKWpGm3T19?usp=sharing)
 
 
 ## Authors
